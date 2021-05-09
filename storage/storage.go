@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"github.com/nknorg/tuna/util"
+	"github.com/0xwallet/tuna/util"
 	"sync"
 )
 

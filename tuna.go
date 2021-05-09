@@ -21,8 +21,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/nknorg/tuna/storage"
-	"github.com/nknorg/tuna/types"
+	"github.com/0xwallet/tuna/storage"
+	"github.com/0xwallet/tuna/types"
 
 	"github.com/golang/protobuf/proto"
 	"github.com/nknorg/nkn-sdk-go"
@@ -33,10 +33,10 @@ import (
 	"github.com/nknorg/nkn/v2/util"
 	"github.com/nknorg/nkn/v2/util/address"
 	"github.com/nknorg/nkn/v2/vault"
-	"github.com/nknorg/tuna/filter"
-	"github.com/nknorg/tuna/geo"
-	"github.com/nknorg/tuna/pb"
-	tunaUtil "github.com/nknorg/tuna/util"
+	"github.com/0xwallet/tuna/filter"
+	"github.com/0xwallet/tuna/geo"
+	"github.com/0xwallet/tuna/pb"
+	tunaUtil "github.com/0xwallet/tuna/util"
 	"github.com/xtaci/smux"
 	"golang.org/x/crypto/nacl/box"
 )

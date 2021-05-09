@@ -13,8 +13,8 @@ import (
 
 	"github.com/nknorg/nkn-sdk-go"
 	"github.com/nknorg/nkn/v2/common"
-	"github.com/nknorg/tuna/pb"
-	"github.com/nknorg/tuna/util"
+	"github.com/0xwallet/tuna/pb"
+	"github.com/0xwallet/tuna/util"
 	"github.com/patrickmn/go-cache"
 	"github.com/rdegges/go-ipify"
 	"github.com/xtaci/smux"

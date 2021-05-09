@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nknorg/tuna/util"
+	"github.com/0xwallet/tuna/util"
 )
 
 var ips = []string{

@@ -4,9 +4,9 @@ import (
 	"time"
 
 	"github.com/imdario/mergo"
-	"github.com/nknorg/tuna/geo"
-	"github.com/nknorg/tuna/pb"
-	"github.com/nknorg/tuna/types"
+	"github.com/0xwallet/tuna/geo"
+	"github.com/0xwallet/tuna/pb"
+	"github.com/0xwallet/tuna/types"
 )
 
 const (

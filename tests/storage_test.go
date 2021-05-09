@@ -4,7 +4,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/nknorg/tuna/storage"
+	"github.com/0xwallet/tuna/storage"
 )
 
 func TestMeasureStorage(t *testing.T) {

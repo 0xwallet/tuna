@@ -5,8 +5,8 @@ import (
 	"strings"
 
 	"github.com/nknorg/nkn-sdk-go"
-	"github.com/nknorg/tuna"
-	"github.com/nknorg/tuna/util"
+	"github.com/0xwallet/tuna"
+	"github.com/0xwallet/tuna/util"
 )
 
 type EntryCommand struct {

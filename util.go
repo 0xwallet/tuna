@@ -14,8 +14,8 @@ import (
 	"github.com/nknorg/nkn-sdk-go"
 	"github.com/nknorg/nkn/v2/common"
 	nknPb "github.com/nknorg/nkn/v2/pb"
-	"github.com/nknorg/tuna/pb"
-	"github.com/nknorg/tuna/storage"
+	"github.com/0xwallet/tuna/pb"
+	"github.com/0xwallet/tuna/storage"
 	"github.com/xtaci/smux"
 )
 

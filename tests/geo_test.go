@@ -3,7 +3,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/nknorg/tuna/geo"
+	"github.com/0xwallet/tuna/geo"
 )
 
 type testCase struct {

@@ -6,7 +6,7 @@ import (
 	"net"
 
 	stream "github.com/nknorg/encrypted-stream"
-	"github.com/nknorg/tuna/pb"
+	"github.com/0xwallet/tuna/pb"
 )
 
 const (

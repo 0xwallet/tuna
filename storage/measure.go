@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/nknorg/tuna/util"
+	"github.com/0xwallet/tuna/util"
 )
 
 const (

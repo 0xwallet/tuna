@@ -1,4 +1,4 @@
-module github.com/nknorg/tuna
+module github.com/0xwallet/tuna
 
 go 1.12
 
