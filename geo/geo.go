@@ -174,8 +174,7 @@ func (f *IPFilter) AddProvider(download bool, path string) {
 	if f.downloadDB {
 		aws := NewAWSProvider(f.dbPath)
 		gcp := NewGCPProvider(f.dbPath)
-		mm := NewMaxMindProvider(f.dbPath)
-		f.providers = []GeoProvider{aws, gcp, mm}
+		f.providers = []GeoProvider{aws, gcp}
 	}
 
 	ip2c := NewIP2CProvider()
