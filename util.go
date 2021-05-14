@@ -11,7 +11,7 @@ import (
 	"sync"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/nknorg/nkn-sdk-go"
+	"github.com/0xwallet/nkn-sdk-go"
 	"github.com/nknorg/nkn/v2/common"
 	nknPb "github.com/nknorg/nkn/v2/pb"
 	"github.com/0xwallet/tuna/pb"

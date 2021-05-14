@@ -4,7 +4,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/nknorg/nkn-sdk-go"
+	"github.com/0xwallet/nkn-sdk-go"
 	"github.com/0xwallet/tuna"
 	"github.com/0xwallet/tuna/util"
 )

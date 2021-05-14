@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/nknorg/nkn-sdk-go"
+	"github.com/0xwallet/nkn-sdk-go"
 )
 
 const (

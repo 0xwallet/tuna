@@ -25,7 +25,7 @@ import (
 	"github.com/0xwallet/tuna/types"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/nknorg/nkn-sdk-go"
+	"github.com/0xwallet/nkn-sdk-go"
 	"github.com/nknorg/nkn/v2/common"
 	"github.com/nknorg/nkn/v2/config"
 	"github.com/nknorg/nkn/v2/crypto/ed25519"

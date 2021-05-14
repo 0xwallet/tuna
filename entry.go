@@ -11,7 +11,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/nknorg/nkn-sdk-go"
+	"github.com/0xwallet/nkn-sdk-go"
 	"github.com/nknorg/nkn/v2/common"
 	"github.com/0xwallet/tuna/pb"
 	"github.com/0xwallet/tuna/util"
