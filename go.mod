@@ -3,7 +3,7 @@ module github.com/0xwallet/tuna
 go 1.12
 
 require (
-	github.com/0xwallet/nkn-sdk-go v1.3.7-0.20210514151856-5bd9f4cd2456
+	github.com/0xwallet/nkn-sdk-go v1.3.7-0.20210515122803-8f5598491a96
 	github.com/golang/protobuf v1.4.1
 	github.com/imdario/mergo v0.3.9
 	github.com/jessevdk/go-flags v1.4.0

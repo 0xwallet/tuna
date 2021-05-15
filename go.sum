@@ -22,8 +22,8 @@ cloud.google.com/go/storage v1.5.0/go.mod h1:tpKbwo567HUNpVclU5sGELwQWBDZ8gh0Zeo
 cloud.google.com/go/storage v1.6.0/go.mod h1:N7U0C8pVQ/+NIKOBQyamJIeKQKkZ+mxpohlUTyfDhBk=
 contrib.go.opencensus.io/exporter/ocagent v0.4.12/go.mod h1:450APlNTSR6FrvC3CTRqYosuDstRB9un7SOx2k/9ckA=
 dmitri.shuralyov.com/gpu/mtl v0.0.0-20190408044501-666a987793e9/go.mod h1:H6x//7gZCb22OMCxBHrMx7a5I7Hp++hsVxbQ4BYO7hU=
-github.com/0xwallet/nkn-sdk-go v1.3.7-0.20210514151856-5bd9f4cd2456 h1:R4NiiQ2OW7S7WLdaY/kln+6cg29hbSHBAxc87eI01wo=
-github.com/0xwallet/nkn-sdk-go v1.3.7-0.20210514151856-5bd9f4cd2456/go.mod h1:WC4FsV3MWB85B9nlrfccLwrIlfQ42Y56Jm1rg2vPzk4=
+github.com/0xwallet/nkn-sdk-go v1.3.7-0.20210515122803-8f5598491a96 h1:dPJBp145+TMcjD6njZMzBWM7S+Htyo6hSrHQlFZXa/o=
+github.com/0xwallet/nkn-sdk-go v1.3.7-0.20210515122803-8f5598491a96/go.mod h1:WC4FsV3MWB85B9nlrfccLwrIlfQ42Y56Jm1rg2vPzk4=
 github.com/Azure/azure-sdk-for-go v32.4.0+incompatible/go.mod h1:9XXNKU+eRnpl9moKnB4QOLf1HestfXbmab5FXxiDBjc=
 github.com/Azure/go-autorest/autorest v0.1.0/go.mod h1:AKyIcETwSUFxIcs/Wnq/C+kwCtlEYGUVd7FPNb2slmg=
 github.com/Azure/go-autorest/autorest v0.5.0/go.mod h1:9HLKlQjVBH6U3oDfsXOeVc56THsLPw1L03yban4xThw=
